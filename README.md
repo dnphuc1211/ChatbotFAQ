@@ -53,5 +53,6 @@ streamlit run app.py
 6. Triển khai: Model sau khi huấn luyện được đóng gói vào chatbot_data.pkl để ứng dụng Streamlit gọi ra sử dụng ngay lập tức mà không cần huấn luyện lại mỗi khi chạy.
 ---
 Người thực hiện: Đồng Ngọc Phúc
+
 Email: phuckdhd123@gmail.com
 
