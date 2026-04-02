@@ -1,6 +1,6 @@
 # Chatbot Hỗ Trợ Sinh Viên HUMG (FAQ Quy chế Đào tạo)
 
-#### Live Demo: https://chatbotfaq-dnphuc1211.streamlit.app
+#### Live Demo: https://chatbotfaq-dnphuc04.streamlit.app
 
 Ứng dụng Chatbot thông minh giúp sinh viên **Trường Đại học Mỏ - Địa chất (HUMG)** tra cứu nhanh các thông tin về quy chế đào tạo, đăng ký môn học, cách tính điểm và điều kiện tốt nghiệp. Dự án sử dụng học máy (Machine Learning) để phân loại ý định người dùng.
 
