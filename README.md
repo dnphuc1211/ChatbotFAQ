@@ -54,5 +54,5 @@ streamlit run app.py
 ---
 Người thực hiện: Đồng Ngọc Phúc
 
-Email: phuckdhd123@gmail.com
+Email: dnphuc04@gmail.com
 
